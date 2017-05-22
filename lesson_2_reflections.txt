@@ -1,0 +1,3 @@
+What Happens when you initialize a repository? Why do you need to do it?
+
+	When you initilize a repository you create a .git file, where your future commits will be stored.
